@@ -1,0 +1,1 @@
+To edit the parameters you need to enter them in the file “num_enter.txt” instead of “1,2,3…” and press the button “ refresh" in the program, first in the upper right corner, and then near the value that needs to be changed (each line in the file corresponds to the line that is displayed in the program after pressing the "refresh" button in the upper right corner)

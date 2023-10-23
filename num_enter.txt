@@ -1,0 +1,15 @@
+x1: 
+y1:
+speed_x1: 1000
+speed_y1:
+acceleration_x1:
+acceleration_y1:
+x2:
+y2:
+speed_x2:
+speed_y2:
+acceleration_x2:
+acceleration_y2:
+G:
+mass1:
+mass2:
