@@ -1,1 +1,7 @@
-To edit the parameters you need to enter them in the file “num_enter.txt” instead of “1,2,3…” and press the button “ refresh" in the program, first in the upper right corner, and then near the value that needs to be changed (each line in the file corresponds to the line that is displayed in the program after pressing the "refresh" button in the upper right corner)
+This project simulates behavior of 2 bodies under force of the gravity
+
+To build this project cmake is required. Open project folder in terminal, then create folder build. Then write "cmake -B "build"", and "cmake --build".
+
+To run the project just open build folder and find the executable.
+
+To edit the parameters you need to pause simulation(button pause), enter digits in the file “num_enter.txt” in the lines “x1,y1,…”, save the file and press the button “refresh", that corresponds the parameter you have changed.
