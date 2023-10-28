@@ -1,15 +1,15 @@
-x1: 
-y1:
+x1: 7
+y1: 8
 speed_x1: 1000
-speed_y1:
-acceleration_x1:
-acceleration_y1:
-x2:
-y2:
-speed_x2:
-speed_y2:
-acceleration_x2:
-acceleration_y2:
-G:
-mass1:
-mass2:
+speed_y1: 9
+acceleration_x1: 10
+acceleration_y1: 11
+x2: 12
+y2: 13
+speed_x2: 14
+speed_y2: 15
+acceleration_x2: 16
+acceleration_y2: 17
+G: 14
+mass1: 100
+mass2: 2
