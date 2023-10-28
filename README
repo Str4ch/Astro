@@ -1,6 +1,10 @@
+Description:
 This project simulates behavior of 2 bodies under force of the gravity
-
-To build this project cmake is required. Open project folder in terminal, then create folder build. Then write "cmake -B "build"", and "cmake --build".
+Prerequisites:
+To build this project cmake is required. 
+How to build:
+1. Open project folder in terminal, then create folder build.
+2. Write in terminal "cmake -B "build"", and "cmake --build build".
 
 To run the project just open build folder and find the executable.
 
