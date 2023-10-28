@@ -6,6 +6,7 @@ How to build:
 1. Open project folder in terminal, then create folder build.
 2. Write in terminal "cmake -B "build"", and "cmake --build build".
 
-To run the project just open build folder and find the executable.
+How to run:
+1.To run the project just open the executable in terminal "build/Astro(.exe for Winwows)".
 
 To edit the parameters you need to pause simulation(button pause), enter digits in the file “num_enter.txt” in the lines “x1,y1,…”, save the file and press the button “refresh", that corresponds the parameter you have changed.
